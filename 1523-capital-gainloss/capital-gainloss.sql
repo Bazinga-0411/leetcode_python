@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 WITH tb AS (
     SELECT stock_name
     , operation
